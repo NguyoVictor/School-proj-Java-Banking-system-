@@ -17,17 +17,6 @@ the customer by logging into their existing account. The system executes operati
 the balance of the account, withdrawing, depositing, money transfers
 between two accounts, and viewing transaction history.
 
-## Group Members:
-
- - [@parthdali](https://github.com/parthd06)
- - [@pranavdalvi](https://github.com/PRANAVD-10)
- - [@shivambhosale](https://github.com/ShivamB10)
-
-## System Design & Flow Chart:
-
-![System Design](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Screenshots/SystemDesign.png)
-
-![Flow Chart](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Screenshots/Flowchart.png)
 
 ## Project Screenshots:
 **Login Page:**
@@ -96,16 +85,3 @@ administrator.
 
 - It also reduces the human errors caused by employees or the customer itself.
 
-## Documentations:
-
-- [Project Ppt](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Reports/PPT_SEITA_19.pptx)
-
-- [Final Report](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Reports/ProjectReport_SEITA_19.pdf)
-
-## References:
-
-- https://www.javatpoint.com/online-banking-project
-
-- https://projectsgeek.com/2016/02/complete-banking-system-java-project.html
-
-- https://www.apachefriends.org/index.html
